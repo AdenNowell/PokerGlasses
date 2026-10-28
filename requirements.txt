@@ -1,0 +1,12 @@
+mss>=9.0.1
+opencv-python>=4.9.0.80
+numpy>=1.26.4
+anthropic>=0.34.0
+pydantic>=2.8.2
+stockfish>=3.28.0
+treys>=0.1.8
+elevenlabs>=1.7.0
+sounddevice>=0.4.7
+soundfile>=0.12.1
+supabase>=2.7.0
+python-dotenv>=1.0.1
