@@ -1,4 +1,4 @@
-# meta-game-sense 🕶️♟️♠️
+# meta-game-sense- Finally Added
 
 ## Implementation status
 
